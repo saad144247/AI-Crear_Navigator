@@ -1,0 +1,12 @@
+streamlit
+PyPDF2
+scikit-learn
+pandas
+python-dotenv
+langchain
+langchain-community
+openai
+spacy
+matplotlib
+groq
+seaborn
